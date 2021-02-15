@@ -42,17 +42,17 @@ https://github.com/NationalSecurityAgency/ghidra/issues/1059
 
 
 This supports ~650 chips from
-*Atmel
-*Cypress
-*Freescale
-*Fujitsu
-*Holtek
-*Nordic
-*Nuvoton
-*NXP
-*SiliconLabs 
-*Spansion
-*STMicro
-*TexasInstruments
-*Toshiba
+* Atmel
+* Cypress
+* Freescale
+* Fujitsu
+* Holtek
+* Nordic
+* Nuvoton
+* NXP
+* SiliconLabs 
+* Spansion
+* STMicro
+* TexasInstruments
+* Toshiba
 
