@@ -12,7 +12,7 @@ https://github.com/Jegeva/idarm-resultdb-nodescription
 
 AND
 
-2)the sqlite3 jdbc driver available here :
+2) the sqlite3 jdbc driver available here :
 
 https://github.com/xerial/sqlite-jdbc
 
