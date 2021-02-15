@@ -19,7 +19,11 @@ It should detect :
 - If it is a Cortex dump (by identifiying the interrupt vector table
 - The base adress (for cortexes)
 
+![autodetect](./pics/GAL_1.png?raw=true)
+
 You can then just select the vendor and the MCU in the loading option menu
+
+![vendors+chips](./pics/GAL_2.png?raw=true)
 
 Once loaded :
 - Every peripheral register address is named
@@ -41,4 +45,3 @@ This supports ~650 chips from
 *Spansion
 *SiliconLabs 
 
-![alt text](./pics/GAL_1.png?raw=true)
