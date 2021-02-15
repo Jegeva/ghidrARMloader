@@ -27,19 +27,18 @@ Once loaded :
 
 
 This supports ~650 chips from
-Toshiba
-Nordic
-Fujitsu
-NXP
-Atmel
-SiFive-Community (Not ARM obviously)
-ARM_SAMPLE
-Holtek
-STMicro
-Freescale
-Nuvoton
-TexasInstruments
-Cypress
-Spansion
-SiliconLabs
-![alt text](pics/GAL/png?raw=true "autodetection")
+*Toshiba
+*Nordic
+*Fujitsu
+*NXP
+*Atmel
+*Holtek
+*STMicro
+*Freescale
+*Nuvoton
+*TexasInstruments
+*Cypress
+*Spansion
+*SiliconLabs
+
+![alt text](./pics/GAL/png)
