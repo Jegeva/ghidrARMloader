@@ -15,6 +15,7 @@ AND
 2)the sqlite3 jdbc driver available here :
 
 https://github.com/xerial/sqlite-jdbc
+
 https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.34.0/sqlite-jdbc-3.34.0.jar
 
 installed in your build path
