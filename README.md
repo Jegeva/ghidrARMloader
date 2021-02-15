@@ -41,4 +41,4 @@ This supports ~650 chips from
 *Spansion
 *SiliconLabs 
 
-![alt text](./pics/GAL.png)
+![alt text](./pics/GAL.png?raw=true)
