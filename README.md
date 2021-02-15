@@ -28,6 +28,10 @@ You can then just select the vendor and the MCU in the loading option menu
 Once loaded :
 - Every peripheral register address is named
 - Every register is declared as a bitfield struct with the bits named as in the chip's datasheet.
+- the IVT is named to the appropriate Standard peripheral (or number when unknown (it is the case in a lot of SVDs))
+- The peripheral bits are defined as the appropriate struct
+
+![vendors+chips](./pics/GAL_3.png?raw=true)
 
 
 This supports ~650 chips from
