@@ -31,21 +31,27 @@ Once loaded :
 - the IVT is named to the appropriate Standard peripheral (or number when unknown (it is the case in a lot of SVDs))
 - The peripheral bits are defined as the appropriate struct
 
+exemple GPIO peripheral ODR register structure with an STM32F103 :
 ![vendors+chips](./pics/GAL_3.png?raw=true)
+
+:bell: **Currently ghidra isn't supporting bitfieldw very well in disassembly and decompilation**
+
+https://github.com/NationalSecurityAgency/ghidra/issues/647
+https://github.com/NationalSecurityAgency/ghidra/issues/1059
 
 
 This supports ~650 chips from
-*Toshiba
-*Nordic
-*Fujitsu
-*NXP
 *Atmel
-*Holtek
-*STMicro
-*Freescale
-*Nuvoton
-*TexasInstruments
 *Cypress
-*Spansion
+*Freescale
+*Fujitsu
+*Holtek
+*Nordic
+*Nuvoton
+*NXP
 *SiliconLabs 
+*Spansion
+*STMicro
+*TexasInstruments
+*Toshiba
 
