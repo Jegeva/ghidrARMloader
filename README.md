@@ -4,13 +4,18 @@ This loads raw dumps of arm firmware in ghidra
 
 IT WILL NOT WORK ON ITS OWN, it needs these components :
 
-The ARM chip database available here :
-https://github.com/Jegeva/idarm-resultdb-nodescription
-(The db is built with https://github.com/Jegeva/idarm/)
-copied (or symlinked) in the data directory
+1) The ARM chip database available here copied (or symlinked) in the data directory:
 
-AND the sqlite3 jdbc driver available here :
+https://github.com/Jegeva/idarm-resultdb-nodescription
+
+(The db is built with https://github.com/Jegeva/idarm/)
+
+AND
+
+2)the sqlite3 jdbc driver available here :
+
 https://github.com/xerial/sqlite-jdbc
+
 installed in your build path
 
 Once you are there, try to load any raw ARM dump.
