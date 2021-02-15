@@ -42,4 +42,4 @@ TexasInstruments
 Cypress
 Spansion
 SiliconLabs
-![alt text](pics/GAL/png?raw=true "autodetection")
+![](pics/GAL/png?raw=true "autodetection")
