@@ -39,6 +39,6 @@ This supports ~650 chips from
 *TexasInstruments
 *Cypress
 *Spansion
-*SiliconLabs
+*SiliconLabs 
 
 ![alt text](./pics/GAL/png)
