@@ -37,6 +37,7 @@ exemple GPIO peripheral ODR register structure with an STM32F103 :
 :bell: **Currently ghidra isn't supporting bitfieldw very well in disassembly and decompilation**
 
 https://github.com/NationalSecurityAgency/ghidra/issues/647
+
 https://github.com/NationalSecurityAgency/ghidra/issues/1059
 
 
